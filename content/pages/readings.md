@@ -40,31 +40,462 @@ Kempe, Margery. _The Book of Margery Kempe_. Translated by B. A. Windeatt. New 
 {{< anchor "readings" >}}{{< /anchor >}}Readings by Class Session
 -----------------------------------------------------------------
 
-| SES # | TOPICS | READINGS | HANDOUTS |
-| --- | --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Biblical and Patristic Materials | _Genesis._ 2.4-3:24.  {{< br >}}  {{< br >}}_Revelations._ 12.  {{< br >}}  {{< br >}}_Romans._ 5-7.  {{< br >}}  {{< br >}}1 _Corinthians._ 7, 14.  {{< br >}}  {{< br >}}2 _Corinthians._ 11.  {{< br >}}  {{< br >}}_Galatians._ 3-4, _Ephesians._ 5.  {{< br >}}  {{< br >}}1 _Timothy._ 2.  {{< br >}}  {{< br >}}Augustine. _On the Literal Meaning of Genesis_ XI. xxxvii. 50, xlii. 58-59.  {{< br >}}  {{< br >}}Jerome. _Against Jovinian._ Book I.  {{< br >}}  {{< br >}}(Available [on-line](http://etext.lib.virginia.edu/kjv.browse.html) through the Electronic Text Services at the University of Virginia, and through the [Christian Classics Ethereal Library](http://www.ccel.org/fathers2/NPNF2-06/Npnf2-06-10.htm).) | ([PDF]({{< baseurl >}}/resources/hand_out3_augus))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/hand_out4_jerome)) |
-| 3 | Hagiography: Late Antiquity and the Early Middle Ages | _Paul and Thecla._ (LBB)  {{< br >}}  {{< br >}}Perpetua. _The Passion of Ss. Perpetua and Felicitas._ (MWVL)  {{< br >}}  {{< br >}}Venantius Fortunatus, and Baudonivia. _The Life of the Holy Radegund_. (SWDA) | ([PDF]({{< baseurl >}}/resources/hand_out5_hagiog)) |
-| 4 | Virgin Martyrdom in the Comic Mode | Terence. _The Eunuch.  {{< br >}}  {{< br >}}_Hrotsvit of Gandersheim. _Letter to Patrons;_ _Dulcitius_. | &nbsp; |
-| 5 | Transforming the Past | Hrotsvit of Gandersheim. _Basilius;_ _Callimachus;_ _Abraham;_ _Sapientia;_ _Thais._ | &nbsp; |
-| 6 | The Trivium: Scholasticism and the Literary Curriculum | Abelard. _Historia Calamitatum_. | &nbsp; |
-| 7 | Medieval Rhetoric and the Power of Emotions | Abelard, and Heloise. Letters 1-4. | ([PDF]({{< baseurl >}}/resources/hand_out1_chauce)) |
-| 8 | The Self Reformed | Abelard, and Heloise. Letters 5-7. _Abelard's Confession of Faith_. | &nbsp; |
-| 9 | Independent Research Project Presentations | &nbsp; |
-| 10 | Independent Research Project Presentations (cont.) | &nbsp; |
-| 11 | Courtly Love and Self-presentation | _Women Troubadours_. | &nbsp; |
-| 12 | Romance and Aristocratic Society | Marie de France, _Lays_. "Prologue"; "Guigemar"; "Bisclavret"; and "Lanval." | &nbsp; |
-| 13 | Adventures on the Celtic Fringe | Marie de France, _Lays_. "Equitan"; "Chaitivel"; and "Eliduc." | &nbsp; |
-| 14 | The Quadrivium: Science in the Medieval Curriculum | Hildegard of Bingen. _Scivias._ Declaration.  {{< br >}}  {{< br >}}Book I, Visions 1-3.  {{< br >}}  {{< br >}}Book II, Visions 1-3. | &nbsp; |
-| 15 | The Science of Salvation | Hildegard of Bingen. _Scivias._ Book II, Vision 7.  {{< br >}}  {{< br >}}Book III, Visions 10-13. | &nbsp; |
-| 16 | Spirituality and Courtly Love | Elizabeth of Schönau. _Visions - Book Two.  {{< br >}}  {{< br >}}_Mechthild of Magdeburg. _Flowing Light of the Godhead.  {{< br >}}  {{< br >}}_Hadewijch of Brabant. _Letters to a Young Beguine,_ _Visions.  {{< br >}}  {{< br >}}__Beatrijzs of Nazareth_, _Seven Manners of Loving_. (MWVL) | &nbsp; |
-| 17 | Mysticism and Heresy | Catherine of Siena. _Letters.  {{< br >}}  {{< br >}}_Angela of Foligno. _The Book of the Experience of the Truly Faithful.  {{< br >}}  {{< br >}}_Na Prous Boneta. _Confession of Na Prous Boneta.  {{< br >}}  {{< br >}}_Marguerite Porete. _The Mirror of Simple Souls_. (MWVL) | ([PDF]({{< baseurl >}}/resources/hand_out6_mediev)) |
-| 18 | Affective Piety and Autobiography | Julian of Norwich. _Showings_. | &nbsp; |
-| 19 | The Disorders of Divine Love | Kempe, Margery. _The Book of Margery Kempe._ Proem, Book I, chapters 1-39. | &nbsp; |
-| 20 | Objects of Affection | Margery Kempe. _The Book of Margery Kempe._ Book I, chapters 40-58. | &nbsp; |
-| 21 | Imitations of Love | Margery Kempe. _The Book of Margery Kempe._ Book I, chapters 59-89. | &nbsp; |
-| 22 | Disciplines of the Self | Margery Kempe. _The Book of Margery Kempe._ Book II. | &nbsp; |
-| 23 | Late Medieval Feminism | Christine de Pizan. _The Book of the City of Ladies._ Part I. | ([PDF]({{< baseurl >}}/resources/hand_out2_listof)) |
-| 24 | Allegories of Power | Christine de Pizan. _The Book of the City of Ladies._ Part II, sections 1-43. | &nbsp; |
-| 25 | The Social Orders | Christine de Pizan. _The Book of the City of Ladies._ Part II, sections 44-69.  {{< br >}}  {{< br >}}Part III. | &nbsp; |
-| 26 | The Crisis of Nationalism | Christine de Pizan. _The Poem of Joan of Arc.  {{< br >}}  {{< br >}}_Joan of Arc. |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Biblical and Patristic Materials
+{{< tdclose >}}
+{{< tdopen >}}
+_Genesis._ 2.4-3:24.  
+  
+_Revelations._ 12.  
+  
+_Romans._ 5-7.  
+  
+1 _Corinthians._ 7, 14.  
+  
+2 _Corinthians._ 11.  
+  
+_Galatians._ 3-4, _Ephesians._ 5.  
+  
+1 _Timothy._ 2.  
+  
+Augustine. _On the Literal Meaning of Genesis_ XI. xxxvii. 50, xlii. 58-59.  
+  
+Jerome. _Against Jovinian._ Book I.  
+  
+(Available [on-line](http://etext.lib.virginia.edu/kjv.browse.html) through the Electronic Text Services at the University of Virginia, and through the [Christian Classics Ethereal Library](http://www.ccel.org/fathers2/NPNF2-06/Npnf2-06-10.htm).)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hand_out3_augus))  
+  
+([PDF]({{< baseurl >}}/resources/hand_out4_jerome))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hagiography: Late Antiquity and the Early Middle Ages
+{{< tdclose >}}
+{{< tdopen >}}
+_Paul and Thecla._ (LBB)  
+  
+Perpetua. _The Passion of Ss. Perpetua and Felicitas._ (MWVL)  
+  
+Venantius Fortunatus, and Baudonivia. _The Life of the Holy Radegund_. (SWDA)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hand_out5_hagiog))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Virgin Martyrdom in the Comic Mode
+{{< tdclose >}}
+{{< tdopen >}}
+Terence. _The Eunuch.  
+  
+_Hrotsvit of Gandersheim. _Letter to Patrons;_ _Dulcitius_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Transforming the Past
+{{< tdclose >}}
+{{< tdopen >}}
+Hrotsvit of Gandersheim. _Basilius;_ _Callimachus;_ _Abraham;_ _Sapientia;_ _Thais._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Trivium: Scholasticism and the Literary Curriculum
+{{< tdclose >}}
+{{< tdopen >}}
+Abelard. _Historia Calamitatum_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Rhetoric and the Power of Emotions
+{{< tdclose >}}
+{{< tdopen >}}
+Abelard, and Heloise. Letters 1-4.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hand_out1_chauce))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Self Reformed
+{{< tdclose >}}
+{{< tdopen >}}
+Abelard, and Heloise. Letters 5-7. _Abelard's Confession of Faith_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Independent Research Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Independent Research Project Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Courtly Love and Self-presentation
+{{< tdclose >}}
+{{< tdopen >}}
+_Women Troubadours_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Romance and Aristocratic Society
+{{< tdclose >}}
+{{< tdopen >}}
+Marie de France, _Lays_. "Prologue"; "Guigemar"; "Bisclavret"; and "Lanval."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Adventures on the Celtic Fringe
+{{< tdclose >}}
+{{< tdopen >}}
+Marie de France, _Lays_. "Equitan"; "Chaitivel"; and "Eliduc."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Quadrivium: Science in the Medieval Curriculum
+{{< tdclose >}}
+{{< tdopen >}}
+Hildegard of Bingen. _Scivias._ Declaration.  
+  
+Book I, Visions 1-3.  
+  
+Book II, Visions 1-3.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Science of Salvation
+{{< tdclose >}}
+{{< tdopen >}}
+Hildegard of Bingen. _Scivias._ Book II, Vision 7.  
+  
+Book III, Visions 10-13.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Spirituality and Courtly Love
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth of Schönau. _Visions - Book Two.  
+  
+_Mechthild of Magdeburg. _Flowing Light of the Godhead.  
+  
+_Hadewijch of Brabant. _Letters to a Young Beguine,_ _Visions.  
+  
+__Beatrijzs of Nazareth_, _Seven Manners of Loving_. (MWVL)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mysticism and Heresy
+{{< tdclose >}}
+{{< tdopen >}}
+Catherine of Siena. _Letters.  
+  
+_Angela of Foligno. _The Book of the Experience of the Truly Faithful.  
+  
+_Na Prous Boneta. _Confession of Na Prous Boneta.  
+  
+_Marguerite Porete. _The Mirror of Simple Souls_. (MWVL)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hand_out6_mediev))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Affective Piety and Autobiography
+{{< tdclose >}}
+{{< tdopen >}}
+Julian of Norwich. _Showings_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The Disorders of Divine Love
+{{< tdclose >}}
+{{< tdopen >}}
+Kempe, Margery. _The Book of Margery Kempe._ Proem, Book I, chapters 1-39.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Objects of Affection
+{{< tdclose >}}
+{{< tdopen >}}
+Margery Kempe. _The Book of Margery Kempe._ Book I, chapters 40-58.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Imitations of Love
+{{< tdclose >}}
+{{< tdopen >}}
+Margery Kempe. _The Book of Margery Kempe._ Book I, chapters 59-89.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Disciplines of the Self
+{{< tdclose >}}
+{{< tdopen >}}
+Margery Kempe. _The Book of Margery Kempe._ Book II.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Late Medieval Feminism
+{{< tdclose >}}
+{{< tdopen >}}
+Christine de Pizan. _The Book of the City of Ladies._ Part I.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hand_out2_listof))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Allegories of Power
+{{< tdclose >}}
+{{< tdopen >}}
+Christine de Pizan. _The Book of the City of Ladies._ Part II, sections 1-43.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+The Social Orders
+{{< tdclose >}}
+{{< tdopen >}}
+Christine de Pizan. _The Book of the City of Ladies._ Part II, sections 44-69.  
+  
+Part III.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+The Crisis of Nationalism
+{{< tdclose >}}
+{{< tdopen >}}
+Christine de Pizan. _The Poem of Joan of Arc.  
+  
+_Joan of Arc.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

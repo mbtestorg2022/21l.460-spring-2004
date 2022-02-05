@@ -19,12 +19,57 @@ Requirements and Grading
 
 The final grade for this class will be computed according to the following weighted scale:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Active Class Participation | 25% |
-| 4 Short Reader Response Papers (each 2 pages in length) | 25% |
-| Oral Report (10 minute presentation with 5-page write-up due one week afterwards) | 20% |
-| Final Paper (8 pages in length) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 Short Reader Response Papers (each 2 pages in length)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Report (10 minute presentation with 5-page write-up due one week afterwards)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (8 pages in length)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Criteria for HASS-CI Subjects
 -----------------------------
